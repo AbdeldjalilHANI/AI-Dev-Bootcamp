@@ -28,6 +28,8 @@ This is a comprehensive, hands-on training program designed to take you from AI 
 - Statistical analysis and pattern discovery
 - **Practical Work**: EDA with Python and Power BI
 
+### Day 4: Coming Soon...
+
 ## 🚀 Getting Started
 
 ### Prerequisites
