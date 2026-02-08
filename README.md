@@ -22,7 +22,11 @@ This is a comprehensive, hands-on training program designed to take you from AI 
 - Model training and evaluation
 - **Practical Work**: Building your first ML model
 
-### **Day 3: [Coming Soon]**
+### **Day 3: Exploratory Data Analysis (EDA)**
+- Understanding Exploratory Data Analysis
+- Data visualization techniques
+- Statistical analysis and pattern discovery
+- **Practical Work**: EDA with Python and Power BI
 
 ## 🚀 Getting Started
 
