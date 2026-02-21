@@ -28,7 +28,13 @@ This is a comprehensive, hands-on training program designed to take you from AI 
 - Statistical analysis and pattern discovery
 - **Practical Work**: EDA with Python and Power BI
 
-### Day 4: Coming Soon...
+### **Day 4: Regression Algorithms**
+- Introduction to regression algorithms
+- Linear/ Polynomial/ Ridge/ Lasso/ Decision Tree/ Random Forest regression
+- Model evaluation metrics (MSE, RMSE, R²)
+- **Practical Work**: Implementing regression models
+
+### **Day 5: Coming Soon...**
 
 ## 🚀 Getting Started
 
@@ -79,4 +85,4 @@ For licensing inquiries or permission requests, please contact Abdeldjalil HANI.
 
 ---
 
-**Made with ❤️ for aspiring AI developers**
+**Read the docs. Write the code. Ship the model.**
